@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sarthakjain594
-- 👀 I’m interested in exploring fields as for now .
-- 🌱 I’m currently learning java and web development . 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at insta @sarthakjain1912
+**HELLO , I'M SARTHAK** .
+
+I am a novice in programmming .
+I am an enthusiast to explore the technology and eager to grasp all these fascinating techs.😉
 
 <!---
 Sarthakjain594/Sarthakjain594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
