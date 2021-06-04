@@ -2,6 +2,9 @@
 
 I am a novice in programmming .
 I am an enthusiast to explore the technology and eager to grasp all these fascinating techs.😉
+Currently exploring web development , Java and open source . 
+
+Reach me at @contact.sarthakjain@gmail.com
 
 <!---
 Sarthakjain594/Sarthakjain594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
