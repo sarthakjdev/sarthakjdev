@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
+<img src="Assets\Images\readme-main.gif" alt="Poster">
 <h3 align="center">Learning and exploring techs .</h3>
 
-- 💬 Ask me about **HTML CSS JS**
+<h2 align="center">TECH STACK , I AM FAMILIAR WITH : </h2>
+<img src="Assets\Icons\html.svg" alt="HTML">
+<img src="Assets\Icons\css.svg" alt="CSS">
+<img src="Assets\Icons\javascript.svg" alt="JS">
+<img src="Assets\Icons\node-js.svg" alt="Node js">
+<img src="Assets\Icons\java.svg" alt="JAVA">
 
-- 📫 How to reach me **contact.sarthakjain@gmail.com**
+<h2 align="center">REACH OUT TO ME : </h2>
+![<img src="Assets\Icons\linkedin.svg" alt="">](https://www.linkedin.com/in/sarthak-jain-715926202/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
