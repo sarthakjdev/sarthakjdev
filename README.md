@@ -15,7 +15,7 @@
 
 <h3 align="left">**Connect with me:**</h3>
 <p align="center">
-<a href="https://twitter.com/sarthakjjain" target="blank"><img align="center" src="Assets\Icons\twitter.svg" alt="sarthakjjain" height="40" width="40" /></a>
+<a href="https://twitter.com/sarthakjjain" target="blank"><img align="center" src="Assets\Icons\twitter.svg" alt="sarthakjjain" height="40" width="40" margin="20"/></a>
 <a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="Assets\Icons\linkedin.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="Assets\Icons\instagram.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a>
 </p>
