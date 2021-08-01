@@ -2,9 +2,9 @@
 <img src="Assets\Images\readme-main.gif" alt="Poster">
 <h3 align="center">Learning and exploring techs .</h3>
 
-<h2 align="center">TECH STACK , I AM FAMILIAR WITH : </h2>
+<h2 align="center" >**TECH STACK , I AM FAMILIAR WITH: ** </h2>
  
- <p>
+ <p align="center">
  <img src="Assets\Icons\html.svg" alt="HTML" height="60" width="60">
 <img src="Assets\Icons\css.svg" alt="CSS">
 <img src="Assets\Icons\javascript.svg" alt="JS">
@@ -13,11 +13,11 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">**Connect with me:**</h3>
 <p align="center">
-<a href="https://twitter.com/sarthakjjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakjjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jain-715926202" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jain-715926202" height="30" width="40" /></a>
+<a href="https://twitter.com/sarthakjjain" target="blank"><img align="center" src="Assets\Icons\twitter.svg" alt="sarthakjjain" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="Assets\Icons\linkedin.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="Assets\Icons\instagram.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
