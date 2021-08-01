@@ -9,12 +9,11 @@
 <img src="Assets\Icons\node-js.svg" alt="Node js">
 <img src="Assets\Icons\java.svg" alt="JAVA">
 
-<h2 align="center">REACH OUT TO ME : </h2>
-![<img src="Assets\Icons\linkedin.svg" alt="">](https://www.linkedin.com/in/sarthak-jain-715926202/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/sarthakjjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakjjain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jain-715926202" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarthak-jain-715926202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jain-715926202" height="30" width="40" /></a>
 </p>
 
