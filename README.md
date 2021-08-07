@@ -2,7 +2,7 @@
 <img src="Assets\Images\readme-main.gif" alt="Poster">
 <h3 align="center">Learning and exploring techs .</h3>
  </br>
-<h2 align="center" >TECH STACK , I AM FAMILIAR WITH: </h2> 
+<h2 align="center" >Tech Stack , I am familiar with :  </h2> 
  <p align="center" >
  <img src="Assets\Icons\html.svg" alt="HTML" height="60" width="60" margin="20"> &nbsp; &nbsp;
 <img src="Assets\Icons\css.svg" alt="CSS">  &nbsp; &nbsp;
