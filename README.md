@@ -6,12 +6,12 @@
  </br>
  
  <p align="center" >
- <img src="Assets\Icons\html.svg" alt="HTML" height="60" width="60" margin="20">
-<img src="Assets\Icons\css.svg" alt="CSS">
-<img src="Assets\Icons\javascript.svg" alt="JS">
-<img src="Assets\Icons\node-js.svg" alt="Node js">
-<img src="Assets\Icons\expressjs-ar21.svg" alt="Express js">
-<img src="Assets\Icons\java.svg" alt="JAVA">
+ <img src="Assets\Icons\html.svg" alt="HTML" height="60" width="60" margin="20"> &nbsp;
+<img src="Assets\Icons\css.svg" alt="CSS">  &nbsp;
+<img src="Assets\Icons\javascript.svg" alt="JS"> &nbsp;
+<img src="Assets\Icons\node-js.svg" alt="Node js"> &nbsp;
+<img src="Assets\Icons\expressjs-ar21.svg" alt="Express js"> &nbsp;
+<img src="Assets\Icons\java.svg" alt="JAVA"> &nbsp;
 
 </p>
 
