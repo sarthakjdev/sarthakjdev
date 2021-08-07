@@ -18,8 +18,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sarthakjjain" target="_blank"><img align="center" src="Assets\Icons\twitter.svg" alt="sarthakjjain" height="40" width="40" margin="20"/></a> &nbsp; &nbsp;
-<a href="https://linkedin.com/in/sarthak-jain-715926202" target="_blank"><img align="center" src="Assets\Icons\linkedin.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a> &nbsp; &nbsp;
-<a href="https://linkedin.com/in/sarthak-jain-715926202" target="_blank"><img align="center" src="Assets\Icons\instagram.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a> &nbsp; &nbsp;
+<a href="https://twitter.com/sarthakjjain" target="_blank"><img align="center" src="Assets\Icons\twitter.svg" alt="sarthakjjain" height="40" width="40" margin="20"/></a> &nbsp; &nbsp; &nbsp;
+<a href="https://linkedin.com/in/sarthak-jain-715926202" target="_blank"><img align="center" src="Assets\Icons\linkedin.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a> &nbsp; &nbsp; &nbsp;
+<a href="https://linkedin.com/in/sarthak-jain-715926202" target="_blank"><img align="center" src="Assets\Icons\instagram.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a> &nbsp; &nbsp; &nbsp;
 </p>
 
