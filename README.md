@@ -20,4 +20,6 @@
 <a href="https://linkedin.com/in/sarthak-jain-715926202" target="_blank"><img align="center" src="Assets\Icons\instagram.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a> &nbsp; &nbsp; &nbsp;
 </p>
  </br>
+ 
+ I am currently takng some session at GDSC UMIT.
 
