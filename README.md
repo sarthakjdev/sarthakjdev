@@ -21,5 +21,4 @@
 </p>
  </br>
  
- I am currently takng some session at GDSC UMIT.
 
