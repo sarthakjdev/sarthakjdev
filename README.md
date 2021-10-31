@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/sarthakjdev/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/sarthajdev" style="text-decoration:none">
+<a href="https://github.com/sarthakjdev" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
  <a href="https://twitter.com/sarthakjdev" style="text-decoration:none">
