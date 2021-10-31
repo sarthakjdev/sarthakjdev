@@ -1,24 +1,34 @@
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
-<img src="Assets\Images\readme-main.gif" alt="Poster">
-<h3 align="center">Learning and exploring techs .</h3>
- </br>
-<h2 align="center" >Tech Stack , I am familiar with :  </h2> 
- <p align="center" >
- <img src="Assets\Icons\html.svg" alt="HTML" height="60" width="60" margin="20"> &nbsp; &nbsp;
-<img src="Assets\Icons\css.svg" alt="CSS">  &nbsp; &nbsp;
-<img src="Assets\Icons\javascript.svg" alt="JS"> &nbsp; &nbsp;
-<img src="Assets\Icons\node-js.svg" alt="Node js"> &nbsp; &nbsp;
-<img src="Assets\Icons\expressjs-ar21.svg" alt="Express js"> &nbsp; &nbsp;
-<img src="Assets\Icons\java.svg" alt="JAVA"> &nbsp; &nbsp;
-</p>
- </br>
+<hr />
+<p align="left">
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://twitter.com/sarthakjjain" target="_blank"><img align="center" src="Assets\Icons\twitter.svg" alt="sarthakjjain" height="40" width="40" margin="20"/></a> &nbsp; &nbsp; &nbsp;
-<a href="https://linkedin.com/in/sarthak-jain-715926202" target="_blank"><img align="center" src="Assets\Icons\linkedin.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a> &nbsp; &nbsp; &nbsp;
-<a href="https://linkedin.com/in/sarthak-jain-715926202" target="_blank"><img align="center" src="Assets\Icons\instagram.svg" alt="sarthak-jain-715926202" height="40" width="40" /></a> &nbsp; &nbsp; &nbsp;
-</p>
- </br>
+<a href="mailto:cotact.sarthakjain@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/sarthakjdev/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/sarthajdev" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+ <a href="https://twitter.com/sarthakjdev" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Twitter-blue.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/dev.sarthakk" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<br />
+<hr />
+
+
+## 📚 TECHSTACK I HAVE WORKED ON: 
+
+![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Skill](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br>
+
  
 
