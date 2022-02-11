@@ -1,3 +1,8 @@
+
+<img align="right" alt="Coding" width="1200" src="https://github.com/sarthakjdev/sarthakjdev/blob/main/Assets/Images/standard.gif">
+
+</br>
+</br>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 <h1 align="center">Hello, I'm Sarthak Jain</h1>
 <h3 align="center">Backend & Front End Developer | Freelancer | Learner</h3>
@@ -16,7 +21,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/sarthakjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakjdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsnareshsain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsnareshsain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itsnareshsain" target="blank"><img align="center" src="./assets/Icons/linkedin.svg" alt="itsnareshsain" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthakjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthakjdev" height="30" width="40" /></a>
 </p>
 
