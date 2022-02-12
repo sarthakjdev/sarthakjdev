@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="1000" src="https://github.com/sarthakjdev/sarthakjdev/blob/main/Assets/Images/standard.gif">
+<img align="right" alt="Coding" width="800" src="https://github.com/sarthakjdev/sarthakjdev/blob/main/Assets/Images/standard.gif">
 
 </br>
 </br>
