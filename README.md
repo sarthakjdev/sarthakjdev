@@ -1,5 +1,5 @@
 
-<p align="center"><img align="center" alt="Coding" width="800" src="https://github.com/sarthakjdev/sarthakjdev/blob/main/assets/images/banner.gif"></p>
+<p align="center"><img align="center" alt="Coding" width="800" src="https://github.com/sarthakjdev/sarthakjdev/blob/main/assets/images/sarthak banner.gif"></p>
 
 
 </br>
