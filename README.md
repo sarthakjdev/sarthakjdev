@@ -30,8 +30,6 @@
 </br>
 <p align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/icons/figma.svg" alt="figma" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="./assets/icons/html.svg" alt="html5" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./assets/icons/css.svg" alt="css3" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/icons/javascript.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/icons/node-js.svg" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/icons/nextjs.svg" alt="nextjs" width="50" height="50"/> </a> 
