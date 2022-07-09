@@ -6,13 +6,13 @@
 <h1 align="center">Hello, I'm Sarthak Jain</h1>
 <h3 align="center">Backend & Front End Developer | Freelancer | Learner</h3>
 
-- 🌱 I’m currently working with **JavaScript**
+- 🌱 I’m currently working with **TS**
 
 - ⚡ Intersted in **Web Development, DevOps Engineering , System Design and Discord Bot Development**
 
-- 👨‍💻 Website [soon available](soon available)
+- 👨‍💻 Website [Sarthak Jain]([soon available](https://sarthakdev.co/)) {Under development}
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JS | TS | WEB | BACKEND **
 
 - 📫 How to reach me **contact.sarthakjain@gmail.com**
 
