@@ -10,7 +10,7 @@
 
 - ⚡ Intersted in **Web Development, DevOps Engineering , System Design and Discord Bot Development**
 
-- 👨‍💻 Website [Sarthak Jain](https://sarthakdev.co/){Under development}
+- 👨‍💻 Website [Sarthak Jain](https://sarthakdev.co/) {Under development}
 
 - 💬 Ask me about **JS | TS | WEB | BACKEND **
 
