@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working with **TS**
 
-- LFX Mentee Summers 2022 [@penmainframeproject](https://github.com/openmainframeproject)
+- LFX Mentee Summers 2022 [@openmainframeproject](https://github.com/openmainframeproject)
 
 - ⚡ Intersted in **Web Development, DevOps Engineering , System Design and Discord Bot Development**
 
