@@ -1,23 +1,14 @@
-
-<p align="center"><img align="center" alt="Coding" width="800" src="https://github.com/sarthakjdev/sarthakjdev/blob/main/assets/images/sarthak banner.gif"></p>
-
+<p align="center"><img align="center" alt="Coding" width="800" src="./assets/images/github-banner.png"></p>
 
 </br>
 <h1 align="center">Hello, I'm Sarthak Jain</h1>
-<h3 align="center">Backend & Front End Developer | Freelancer | Learner</h3>
+<h3 align="center">Backend & DevOps Engineer | Freelancer</h3>
 
-- 🌱 I’m currently working with **TS**
+- 👨‍💻 Portfolio [Sarthak Jain](https://sarthakjdev.com/)
 
-- LFX Mentee Summers 2022 [@openmainframeproject](https://github.com/openmainframeproject)
-
-- ⚡ Intersted in **Web Development, DevOps Engineering , System Design and Discord Bot Development**
-
-- 👨‍💻 Portfolio [Sarthak Jain](https://sarthakjdev.com/) {Under development}
-
-- 💬 Ask me about **JS | TS | WEB | BACKEND **
+- 💬 Ask me about **JS | TS | WEB | BACKEND | DevOps | Deployment | Linux | CI/CD **
 
 - 📫 How to reach me **contact.sarthakjain@gmail.com**
-
 
 <h3 align="center">Connect with me:</h3>
 </br>
