@@ -1,7 +1,7 @@
 name: Update Readme.md
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
