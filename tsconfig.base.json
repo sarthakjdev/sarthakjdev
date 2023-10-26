@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"strictNullChecks": true,
+		"moduleResolution": "node",
+		"baseUrl": ".",
+		"pretty": true,
+		"allowUnreachableCode": false,
+		"allowJs": true,
+		"strict": true,
+		"declaration": true,
+		"resolveJsonModule": true,
+		"declarationMap": false,
+		"newLine": "lf",
+		"outDir": "dist",
+		"esModuleInterop": true,
+		"removeComments": false,
+		"sourceMap": true,
+		"module": "ESNext",
+		"target": "ESNext"
+	}
+}

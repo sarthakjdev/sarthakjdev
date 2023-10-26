@@ -1,0 +1,32 @@
+name: Update Readme.md
+on:
+  schedule:
+    - cron: "* * * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: User Node.js LTS
+        uses: actions/setup-node@v2
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2.2.4
+        with:
+          run_install: false
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Execute script
+        run: npx tsx src/index.ts
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "docs: readme.md updated ${GITHUB_SHA}" || true
+          git push
