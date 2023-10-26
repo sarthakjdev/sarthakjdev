@@ -2,7 +2,7 @@ name: Update Readme.md
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "* * * * *"
+    - cron: "30 6 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
