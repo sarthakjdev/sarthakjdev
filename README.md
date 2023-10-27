@@ -35,13 +35,15 @@
 <a href="https://www.linux.org/" target="_blank" ><img src="./assets/icons/linux.svg" alt="linux" width="40" height="40" /></a> &nbsp;
 </p>
 
+
 <h3 align="center">📝 Latest Blog Posts:</h3>
 <table style="table-layout: fixed;">
 <tr width="100%">
 
+
 <th style="width: 33.33%; border: 1px solid #dcdcdc;">
     <p align="center">
-       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697904889607/c0c93b39-8000-45e4-88c0-67a9b23c911a.png" alt="cloud-network-security-alt" width="300">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697904889607/c0c93b39-8000-45e4-88c0-67a9b23c911a.png" alt="cloud-network-security-alt" width="300">
     </p>
     <p align="center">
         <strong>Network Security in the Cloud...</strong><br>
@@ -52,9 +54,10 @@
     </p>
 </th>
 
+
 <th style="width: 33.33%; border: 1px solid #dcdcdc;">
     <p align="center">
-       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697904537291/07d493be-8acd-4dc2-9e5a-b4bfdd0ec727.png" alt="virtual-networks-alt" width="300">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697904537291/07d493be-8acd-4dc2-9e5a-b4bfdd0ec727.png" alt="virtual-networks-alt" width="300">
     </p>
     <p align="center">
         <strong>Understanding Virtual Networks...</strong><br>
@@ -65,9 +68,10 @@
     </p>
 </th>
 
+
 <th style="width: 33.33%; border: 1px solid #dcdcdc;">
     <p align="center">
-       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697902876841/b5fd0585-14b8-4555-94df-549a13b37847.png" alt="network-interfaces-alt" width="300">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697902876841/b5fd0585-14b8-4555-94df-549a13b37847.png" alt="network-interfaces-alt" width="300">
     </p>
     <p align="center">
         <strong>Understanding Network Interfaces: Ethernet, WLAN, ...</strong><br>
@@ -85,5 +89,6 @@
 <a href="https://blog.sarthakjdev.com/">Read more blogs</a>
 </kbd>
 </p>
+
 
 </p>
